@@ -12,6 +12,11 @@ ADMIN HOME PAGE:
 Inside here Admin can ADD,Delete Category  and Policy too Along with that Users Details like Which policy is buyed by which Customers All those Details to.!!
 
 CLIENT LOGIN PAGE:
+![Screenshot (14)](https://user-images.githubusercontent.com/61315497/80916542-fb4ce780-8d76-11ea-8039-87d9ec8916fd.png)
+
+
+CLIENT HOME PAGE:
+
 
 
 Client Side User can view Policy Of all the categories and Depending on his need he can Buy  policy put adding it into the cart
