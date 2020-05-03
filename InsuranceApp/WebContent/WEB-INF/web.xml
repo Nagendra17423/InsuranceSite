@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>InsuranceApp</display-name>
+  <welcome-file-list>
+ <welcome-file>ClientServlet</welcome-file> 
+  </welcome-file-list>
+  <servlet>
+    <display-name>ClientServlet</display-name>
+    <servlet-name>ClientServlet</servlet-name>
+    <servlet-class>com.Controller.ClientServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ClientServlet</servlet-name>
+    <url-pattern>/ClientServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <display-name>AdminServlet</display-name>
+    <servlet-name>AdminServlet</servlet-name>
+    <servlet-class>com.Controller.AdminServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AdminServlet</servlet-name>
+    <url-pattern>/AdminServlet</url-pattern>
+  </servlet-mapping>
+</web-app>
