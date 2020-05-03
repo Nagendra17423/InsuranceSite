@@ -16,8 +16,9 @@ CLIENT LOGIN PAGE:
 
 
 CLIENT HOME PAGE:
+![Screenshot (15)](https://user-images.githubusercontent.com/61315497/80916575-2800ff00-8d77-11ea-9b0a-d7fcba39173a.png)
 
-
+Inside Here Customer Can Buy Policy and the details of that with the help of query gonna be updated in Database or he can delete it too from the cart if he dont want it!!
 
 Client Side User can view Policy Of all the categories and Depending on his need he can Buy  policy put adding it into the cart
 Server Side user Detials are Stored Details like Name Policy buyed etc..
